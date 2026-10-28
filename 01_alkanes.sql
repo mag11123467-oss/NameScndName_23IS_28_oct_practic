@@ -16,3 +16,5 @@ VALUES
     ('Октан', 'C8H18', 8),
     ('Нонан', 'C9H20', 9),
     ('Декан', 'C10H22', 10);
+    SELECT * FROM public.alkanes
+ORDER BY name ASC 
